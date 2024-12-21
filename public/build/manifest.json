@@ -1,0 +1,112 @@
+{
+  "public/assets/images/alert/bg-balance.png": {
+    "file": "assets/bg-balance-mojAGTMz.png",
+    "src": "public/assets/images/alert/bg-balance.png"
+  },
+  "public/assets/images/alert/profile-bg.png": {
+    "file": "assets/profile-bg-Yypm1dln.png",
+    "src": "public/assets/images/alert/profile-bg.png"
+  },
+  "public/assets/images/arrow-white.svg": {
+    "file": "assets/arrow-white-Cwo7Senu.svg",
+    "src": "public/assets/images/arrow-white.svg"
+  },
+  "public/assets/images/arrow.svg": {
+    "file": "assets/arrow-KD4J7c_B.svg",
+    "src": "public/assets/images/arrow.svg"
+  },
+  "public/assets/images/avatar/1.jpg": {
+    "file": "assets/1-CcgdMKOL.jpg",
+    "src": "public/assets/images/avatar/1.jpg"
+  },
+  "public/assets/images/avatar/2.jpg": {
+    "file": "assets/1-CcgdMKOL.jpg",
+    "src": "public/assets/images/avatar/1.jpg"
+  },
+  "public/assets/images/dashboard1/1.gif": {
+    "file": "assets/1-Bfyj1kBK.gif",
+    "src": "public/assets/images/dashboard1/1.gif"
+  },
+  "public/assets/images/dashboard1/bg.png": {
+    "file": "assets/bg-CsNeFIBM.png",
+    "src": "public/assets/images/dashboard1/bg.png"
+  },
+  "public/assets/images/dashboard2/delivery.png": {
+    "file": "assets/delivery-CQvmefV8.png",
+    "src": "public/assets/images/dashboard2/delivery.png"
+  },
+  "public/assets/images/details_close.png": {
+    "file": "assets/details_close-BB9JpovZ.png",
+    "src": "public/assets/images/details_close.png"
+  },
+  "public/assets/images/details_open.png": {
+    "file": "assets/details_open-DsXtJwpt.png",
+    "src": "public/assets/images/details_open.png"
+  },
+  "public/assets/images/forms/flags.png": {
+    "file": "assets/flags-DDO3guPO.png",
+    "src": "public/assets/images/forms/flags.png"
+  },
+  "public/assets/images/forms/user.png": {
+    "file": "assets/user-Czl4PKbQ.png",
+    "src": "public/assets/images/forms/user.png"
+  },
+  "public/assets/images/landing/homebg.png": {
+    "file": "assets/homebg-COTMQXKb.png",
+    "src": "public/assets/images/landing/homebg.png"
+  },
+  "public/assets/images/login/1.jpg": {
+    "file": "assets/1-CsOOF9qe.jpg",
+    "src": "public/assets/images/login/1.jpg"
+  },
+  "public/assets/images/login/2.jpg": {
+    "file": "assets/1-CsOOF9qe.jpg",
+    "src": "public/assets/images/login/1.jpg"
+  },
+  "public/assets/images/login/3.jpg": {
+    "file": "assets/3-CIKbL4Gc.jpg",
+    "src": "public/assets/images/login/3.jpg"
+  },
+  "public/assets/images/login/login_bg.jpg": {
+    "file": "assets/login_bg-CrM_v32F.jpg",
+    "src": "public/assets/images/login/login_bg.jpg"
+  },
+  "public/assets/images/other-images/bg-profile.png": {
+    "file": "assets/bg-profile-Bbsfu6kb.png",
+    "src": "public/assets/images/other-images/bg-profile.png"
+  },
+  "public/assets/images/other-images/boxbg.jpg": {
+    "file": "assets/boxbg-D240b-sC.jpg",
+    "src": "public/assets/images/other-images/boxbg.jpg"
+  },
+  "public/assets/images/other-images/coming-soon-bg.jpg": {
+    "file": "assets/coming-soon-bg-BbIaQ9kE.jpg",
+    "src": "public/assets/images/other-images/coming-soon-bg.jpg"
+  },
+  "public/assets/images/other-images/maintenance-bg.jpg": {
+    "file": "assets/coming-soon-bg-BbIaQ9kE.jpg",
+    "src": "public/assets/images/other-images/coming-soon-bg.jpg"
+  },
+  "public/assets/images/svg-icon/success.svg": {
+    "file": "assets/success-CGLppRhi.svg",
+    "src": "public/assets/images/svg-icon/success.svg"
+  },
+  "public/assets/images/switch/square-gray.png": {
+    "file": "assets/square-gray-qCky3v1K.png",
+    "src": "public/assets/images/switch/square-gray.png"
+  },
+  "public/assets/images/switch/square.svg": {
+    "file": "assets/square-ZCXWNvnM.svg",
+    "src": "public/assets/images/switch/square.svg"
+  },
+  "public/assets/src/scss/style.scss": {
+    "file": "assets/style-BPOtguXw.css",
+    "src": "public/assets/src/scss/style.scss",
+    "isEntry": true
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app-Lkbm8zIe.css",
+    "src": "resources/sass/app.scss",
+    "isEntry": true
+  }
+}
